@@ -8,5 +8,5 @@
 
 - 🏢 LinkedIn: https://www.linkedin.com/in/tanner-lowthorp/
 - 🔭 I’m currently working on [C-Machine-Learning](https://github.com/TannerLow/C-Machine-Learning)
-- 🌱 I’m currently learning `x84_64 Assembly`
+- 🌱 I’m currently learning `Discrete Maths` and `x84_64 Assembly`
 
