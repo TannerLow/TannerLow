@@ -7,6 +7,6 @@
 
 
 - 🏢 LinkedIn: https://www.linkedin.com/in/tanner-lowthorp/
-- 🔭 I’m currently working on [C-Machine-Learning](https://github.com/TannerLow/C-Machine-Learning)
-- 🌱 I’m currently learning `Discrete Maths` and `x84_64 Assembly`
+- 🔭 I’m currently working on [C-Matrix-Library](https://github.com/TannerLow/C-Matrix-Library)
+- 🌱 I’m currently learning `Digital Signal Processing`
 
